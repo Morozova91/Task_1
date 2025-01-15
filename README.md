@@ -70,9 +70,12 @@
 
 Пример выполненной работы с графиком:
 ![AAPL_3mo_stock_price_chart.png](chart/AAPL_3mo_stock_price_chart.png)
+
 Пример выполненной работы с графиком по MACD и RSI:
-![2025-01-15_13-07-30.png](../../Downloads/2025-01-15_13-07-30.png)
-![2025-01-15_13-06-36.png](../../Downloads/2025-01-15_13-06-36.png)
+
+![2025-01-15_13-07-30](https://github.com/user-attachments/assets/c715f56f-f8ec-4d07-a9a4-d2f3cf02640f)
+![2025-01-15_13-06-36](https://github.com/user-attachments/assets/393b20af-f261-40b8-9864-0a8347f5c1a5)
+
 Пример выполненной работы по экспорту данных в csv-файл:
 ![2025-01-10_15-12-15.png](../../Downloads/2025-01-10_15-12-15.png)
 
