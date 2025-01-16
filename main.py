@@ -62,7 +62,7 @@ def main():
         # Добавление скользящего среднего, RSI, MACD
         stock_data = dd.add_moving_average(stock_data)  # Добавляем расчет Скользящего среднего
         stock_data = dd.calculate_rsi(stock_data)  # Добавляем расчет RSI
-        stock_data = dd.calculate_macd(stock_data)  # Добавляем расчет MACD
+        stock_data = dd.compute_macd(stock_data)  # Добавляем расчет MACD
         print(stock_data)
 
         # Отрисовка графика и сохранение БД в csv-файл
